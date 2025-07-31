@@ -5,5 +5,6 @@ class Pascal {
         ArrayList<Integer> list = new ArrayList<>();
         list.add(5);
         list.add(6);
+        list.add(7);
     }
 }
